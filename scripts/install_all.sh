@@ -1,6 +1,6 @@
 #!/bin/sh
-sh install_all.sh
-sh mpv.sh
-sh nvidia.sh
-sh rmbeep.sh
-sh utility.sh
+nvidia.sh
+utility.sh
+code.sh
+mpv.sh
+rmbeep.sh
